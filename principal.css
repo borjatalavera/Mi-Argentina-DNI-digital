@@ -1,0 +1,78 @@
+.body{
+    margin: auto;
+    font-family: 'Noto Sans Buhid', sans-serif;
+}
+.header{
+    background-color: rgb(54, 194, 250);
+    display: flex;
+    text-align: center;
+    height: 4em;
+    width: 2;
+}
+.logo{
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    height: 25px;
+}
+.micuenta{
+    margin-left: 155px;
+    margin-top: 25px;
+    font-size: 12px;
+    color: white;
+}
+.verificado{
+    height: 25px;
+}
+.textonombre{
+    color: rgb(51, 51, 51);
+    margin-left: 20px;
+    font-size: 27px;
+    margin-top: 30px;
+}
+.cuadro1{
+    background-color: rgb(236, 245, 248);
+    height: 300px;
+    width: 24em;
+    margin-left: 9px;
+    border-radius: 3%;
+    border: 2px solid #336aa1;
+}
+.textocuadro1{
+    margin: 20px;
+
+}
+.titulocuadro1{
+    margin-top: 10px;
+    color:#336aa1 ;
+    font-size: 20px;
+    margin: 20px;
+
+}
+.novedades{
+    margin: 20px;
+    color: #336aa1;
+}
+.documentoscuadro{
+    margin-left: 20px;
+}
+.cuadro2{
+    background-color: rgb(255, 255, 255);
+    height: 170px;
+    width: 24em;
+    margin-left: 9px;
+    border-radius: 3%;
+    border: 2px solid #eeeeee;
+}
+.textocuadro2{
+    color: rgb(48, 48, 48);
+    margin: 20px;
+}
+.titulocuadro2{
+    margin-top: 10px;
+    color:rgb(48, 48, 48) ;
+    font-size: 20px;
+    margin: 20px;
+}
+
+@media (max-width: 767px)
